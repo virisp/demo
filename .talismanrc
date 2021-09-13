@@ -1,5 +1,5 @@
 fileignoreconfig:
 - filename: index.html
-  checksum: daab9cfb94ffa3ff20f1e4876bbc0efa18d1b3f27b2406933a79929a7c0ea159
+  checksum: 6e7625686c567fd8ec3a6d086928e6db4a8c6c254903fdde85d72b46ce63e209
 - filename: key.pem
   checksum: ebeeef909e5b2c74796e559e0a3d6752708a3264a45164ed2f6915dc0b82037a
