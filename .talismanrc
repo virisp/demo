@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: .github/workflows/detect-secrets.yaml
+  checksum: 2e72b557611efeaa9ba22c6c930ad8b6eac360d872a4bd5b84e0ec4005299cd8
 - filename: index.html
   checksum: 6e7625686c567fd8ec3a6d086928e6db4a8c6c254903fdde85d72b46ce63e209
 - filename: key.pem
